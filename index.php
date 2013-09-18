@@ -9,7 +9,7 @@
 <body>
 <h3>Bill Jung</h3>
 <br />
-<b>interests</b><br />
+<b>Interests</b><br />
 Cameras and Audios<br />
 <br />
 <b>Courses</b><br />
