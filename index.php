@@ -6,23 +6,17 @@
   <title>P1</title>
 </head>
 
-<body  bgcolor="#E6E6FA">
+<body>
 <h3>Bill Jung</h3>
 <br />
 <b>Interests</b><br />
-<font color="gray">
 Cameras and Audios<br />
-</font>
 <br />
 <b>Courses</b><br />
-<font color="gray">
 CSCI E-50A,B<br />
 CSCI E-52<br />
-</font>
 <br />
 <b>Editors</b><br />
-<font color="gray">
 Bluefish<br />
 TextEdit</body>
-</font>
 </html>
